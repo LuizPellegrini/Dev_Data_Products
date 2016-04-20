@@ -68,5 +68,6 @@ The only cluster that seems identical, with just some minor discrepancies, is th
 As well stated on Wikipedia article (Description slide), the use of cluster analysis in this dataset is not the best use of this algorithm, however, for this exercise the main objective is to show how shiny can be used to provide interactive experience during data analysis with a very simple example.
 
 ### In summary
+
 Comparing the Cluster Analysis with K=3 (Plot slide), the original plot considered the field Species to group the flowers, it is possible to see that this approximation seems to be the best of all, but still very far from perfect, specially for "versicolor" and "virginica" groups. 
 
